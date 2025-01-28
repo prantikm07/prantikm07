@@ -95,6 +95,7 @@
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=prantikm07&theme=highcontrast" width="50%" />
   </a>
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=prantikm07&theme=highcontrast)
 
   <br><br>
   
