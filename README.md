@@ -1,106 +1,118 @@
-### Hello Universe, I'm Prantik Mukhopadhyay  👋 
-
------
+<h1 align="center">Hi 👋, I'm Prantik Mukhopadhyay</h1>
+<h3 align="center">Final Year IT Student | Data Scientist | Backend Developer</h3>
 
 <p align="center">
- 
-![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
-
+  <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" alt="Banner" />
 </p>
 
------
-
-![profile count](https://komarev.com/ghpvc/?username=prantikm07&color=red)&nbsp;
-[![GitHub prantikm07](https://img.shields.io/github/followers/prantikm07?label=follow&style=social)](https://github.com/prantikm07)&nbsp;
-### 👨🏻‍💻 &nbsp;About Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prantikm07&color=blue&style=flat-square" alt="Profile Views" />
+  <a href="https://github.com/prantikm07?tab=followers">
+    <img src="https://img.shields.io/github/followers/prantikm07?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
+  </a>
+  <img src="https://img.shields.io/github/stars/prantikm07?style=flat-square&color=yellow" alt="GitHub Stars" />
+</p>
 
 ---
 
-💡 &nbsp; Hello everyone, I'm a pre-final year B.Tech student in IT with a solid foundation in software development, data structures, and machine learning. I enjoy collaborating with like-minded individuals on exciting and impactful projects.
+## 🚀 About Me
 
-🌱 &nbsp; I'm eager to apply my skills in a dynamic environment where I can contribute to innovative solutions in technology, artificial intelligence, and business domains, while continuing to grow my expertise.
+I'm a passionate B.Tech student specializing in Information Technology with a strong foundation in software development, data structures, and machine learning. I thrive on building innovative solutions and collaborating on impactful projects.
 
-✍️ &nbsp; Outside of my technical pursuits, I love songing, watching movies, reading books, and playing cricket and badminton.
+- 🔭 Currently working on **AI-powered applications** and **full-stack development**
+- 🌱 Exploring **deep learning**, **cloud technologies**, and **mobile app development**
+- 💼 Looking for opportunities to contribute to **AI, tech innovation**, and **business solutions**
+- 🎯 Goal: To leverage technology for creating meaningful real-world impact
+- ⚡ Fun fact: When I'm not coding, you'll find me singing, watching movies, reading, or playing cricket and badminton!
 
-💬 &nbsp; Feel free to reach out for consulting or discussions on tech, AI, or general topics!
+---
 
------
-### 📫 &nbsp; How to reach me:
+## 🛠️ Tech Stack
 
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### Frameworks & Libraries
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-<a href="https://www.linkedin.com/in/prantikm07/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
-</a> &nbsp;
-<a href="https://instagram.com/prantikm07/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
-<a href="mailto:prantik25m@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://www.geeksforgeeks.org/user/prantikm05/"><img src="https://img.shields.io/badge/-GeeksforGeeks-0054A1?style=flat&logo=GeeksforGeeks&logoColor=white"/></a> &nbsp;
-<a href="https://leetcode.com/prantikm07/"><img src="https://img.shields.io/badge/-LeetCode-E4405F?style=flat&logo=LeetCode&logoColor=white"/></a> &nbsp;
-<br>
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-<h1 align="center">Projects</h1>
+---
 
-</div>
+## 🌟 Featured Projects
+
 <div align="center">
   <a href="https://github.com/prantikm07/EyesOn-AI-Powered-Drowsiness-Detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prantikm07&repo=EyesOn-AI-Powered-Drowsiness-Detection&show_icons=true&theme=great-gatsby">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prantikm07&repo=EyesOn-AI-Powered-Drowsiness-Detection&theme=react&hide_border=true" />
   </a>
   <a href="https://github.com/prantikm07/AutoML-Pro">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prantikm07&repo=AutoML-Pro&show_icons=true&theme=great-gatsby">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prantikm07&repo=AutoML-Pro&theme=react&hide_border=true" />
   </a>
   <a href="https://github.com/prantikm07/Split-The-Bill">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prantikm07&repo=Split-The-Bill&show_icons=true&theme=great-gatsby">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prantikm07&repo=Split-The-Bill&theme=react&hide_border=true" />
   </a>
   <a href="https://github.com/prantikm07/StartUps-Profit-Prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prantikm07&repo=StartUps-Profit-Prediction&show_icons=true&theme=great-gatsby">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prantikm07&repo=StartUps-Profit-Prediction&theme=react&hide_border=true" />
   </a>
   <a href="https://github.com/prantikm07/PickColor-Color-Palette-Generator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prantikm07&repo=PickColor-Color-Palette-Generator&show_icons=true&theme=great-gatsby">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prantikm07&repo=PickColor-Color-Palette-Generator&theme=react&hide_border=true" />
   </a>
   <a href="https://github.com/prantikm07/Smoke-Monitoring-and-Detection-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prantikm07&repo=Smoke-Monitoring-and-Detection-System&show_icons=true&theme=great-gatsby">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prantikm07&repo=Smoke-Monitoring-and-Detection-System&theme=react&hide_border=true" />
   </a>
-
 </div>
 
+---
 
-### Languages and Tools
-
-<p>
- 
-<code><img width="18%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="18%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="18%" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></code>
-<code><img width="18%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
-<code><img width="18%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
-<code><img width="18%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
-<code><img width="18%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img width="18%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-<code><img width="18%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
-<code><img width="18%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
-<code><img width="18%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="18%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img width="18%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
-<code><img width="18%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
-<code><img width="18%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
- 
-</p>
-<br>
-
-
-<h1 align="center">Github Stats</h1>
+## 📊 GitHub Statistics
 
 <div align="center">
-
-  <!-- <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=prantikm07&theme=highcontrast" width="50%" />
-  </a> -->
-
-  <br><br>
-  
-  <img align="left" alt="Prantik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=prantikm07&&show_icons=true&theme=dark" width="50%" />
-  <img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prantikm07&layout=compact&theme=dark" width="38%" />
-
-  <br><br>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=prantikm07&show_icons=true&theme=react&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prantikm07&layout=compact&theme=react&hide_border=true" alt="Top Languages" height="165" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prantikm07&theme=react&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/prantikm07/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:prantik25m@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://instagram.com/prantikm07/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://leetcode.com/prantikm07/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/prantikm05/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
