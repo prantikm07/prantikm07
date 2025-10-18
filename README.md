@@ -2,7 +2,7 @@
   
 # 🌌 Welcome to my Digital Realm 🌌
 ### I'm Prantik Mukhopadhyay!
-#### `UI/UX Designer` • `Python Backend Sorcerer` • `AI/ML Architect`
+#### `UI/UX Designer` • `Python Backend Developer` • `AI/ML Architect`
 
 <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" alt="Banner" width="100%"/>
 
@@ -14,7 +14,7 @@
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -117,7 +117,7 @@ I train machines to **see, understand, and predict**. Deep learning isn't just c
 
 <div align="center">
 
-### 🌈 Life Beyond Code
+### 💀 Life Beyond Code
 
 <table>
 <tr>
@@ -130,7 +130,7 @@ I train machines to **see, understand, and predict**. Deep learning isn't just c
   entertainment:
     - "Binge-watching series 🎬"
     - "Getting lost in books 📚"
-  fuel: "Coffee ☕ (lots of it)"
+  fuel: "Coffee and Chai ☕ (lots of it)"
 </code></pre>
 
 </td>
@@ -142,7 +142,7 @@ I train machines to **see, understand, and predict**. Deep learning isn't just c
 </tr>
 </table>
 
-**Fun Fact:** I can debug code and explain cricket rules with equal passion! 🏏💻
+
 
 </div>
 
@@ -160,14 +160,10 @@ I train machines to **see, understand, and predict**. Deep learning isn't just c
 
 ---
 
-
-
-## 🚀 Featured Repositories
-
 <div align="center">
 
 ### 🎯 Active Projects
-
+---
 <table>
 <tr>
 <td width="50%">
@@ -335,7 +331,7 @@ I train machines to **see, understand, and predict**. Deep learning isn't just c
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/prantikm07/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/prantikm07/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/prantikm05/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/prantikm07)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://prmweb.onrender.com/)
 
 </div>
 
